@@ -14,4 +14,5 @@ void main() {
     printf("%d\n", s1.Id);
     printf("%s\n", s1.name);
     printf("%s\n", s1.dep);
+    return 0;
 }
